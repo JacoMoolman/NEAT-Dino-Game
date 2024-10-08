@@ -2,6 +2,7 @@
 # NEAT Dino Game - NEAT AI Implementation
 
 ![NEAT Dino Game](NEAT-DINO.png)
+
 Watch the video here:
 [![Watch AI Play Dino Game](https://img.youtube.com/vi/6DlvJimHz6w/0.jpg)](https://www.youtube.com/watch?v=6DlvJimHz6w)
 
