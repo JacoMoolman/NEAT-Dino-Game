@@ -3,6 +3,8 @@
 
 ![NEAT Dino Game](NEAT-DINO.png)
 
+[![Watch AI Play Dino Game](https://img.youtube.com/vi/6DlvJimHz6w/0.jpg)](https://www.youtube.com/watch?v=6DlvJimHz6w)
+
 
 ## Introduction
 This project implements a NEAT (NeuroEvolution of Augmenting Topologies) algorithm to train an AI to play a simple side-scrolling game, reminiscent of the Chrome 'Dino' game. The AI learns to avoid obstacles by jumping or ducking, improving its fitness over time through evolution.
